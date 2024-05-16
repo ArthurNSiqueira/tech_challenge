@@ -1,0 +1,465 @@
+,País,Ano,Quantidade,Valor
+0,Africa do Sul,2008,14379,10961
+1,Alemanha,2008,60850,68950
+2,Argentina,2008,0,0
+3,Austria,2008,0,0
+4,Canadá,2008,0,0
+5,"Coreia do Sul, República",2008,735,270
+6,"Coreia do Norte, República",2008,0,0
+7,Chile,2008,100000,130000
+8,China,2008,0,0
+9,Dinamarca,2008,0,0
+10,Espanha,2008,0,0
+11,Estados Unidos,2008,8455,14898
+12,França,2008,0,0
+13,Guiana,2008,0,0
+14,Israel,2008,900,1551
+15,itália,2008,0,0
+16,Japão,2008,0,0
+17,Líbano,2008,0,0
+18,México,2008,0,0
+19,Países Baixos,2008,0,0
+20,Panamá,2008,0,0
+21,Peru,2008,0,0
+22,Portugal,2008,0,0
+23,Reino Unido,2008,0,0
+24,Taiwan,2008,0,0
+25,Turquia,2008,0,0
+26,Uruguai,2008,0,0
+27,Venezuela,2008,0,0
+28,Outros,2008,0,0
+29,Africa do Sul,2009,11839,9400
+30,Alemanha,2009,0,0
+31,Argentina,2009,0,0
+32,Austria,2009,0,0
+33,Canadá,2009,0,0
+34,"Coreia do Sul, República",2009,16661,17249
+35,"Coreia do Norte, República",2009,0,0
+36,Chile,2009,0,0
+37,China,2009,0,0
+38,Dinamarca,2009,0,0
+39,Espanha,2009,0,0
+40,Estados Unidos,2009,13178,24066
+41,França,2009,0,0
+42,Guiana,2009,0,0
+43,Israel,2009,900,1783
+44,itália,2009,0,0
+45,Japão,2009,0,0
+46,Líbano,2009,0,0
+47,México,2009,0,0
+48,Países Baixos,2009,0,0
+49,Panamá,2009,0,0
+50,Peru,2009,0,0
+51,Portugal,2009,0,0
+52,Reino Unido,2009,0,0
+53,Taiwan,2009,0,0
+54,Turquia,2009,0,0
+55,Uruguai,2009,0,0
+56,Venezuela,2009,0,0
+57,Outros,2009,0,0
+58,Africa do Sul,2010,37353,31729
+59,Alemanha,2010,0,0
+60,Argentina,2010,108000,138240
+61,Austria,2010,0,0
+62,Canadá,2010,0,0
+63,"Coreia do Sul, República",2010,15080,18097
+64,"Coreia do Norte, República",2010,0,0
+65,Chile,2010,1015000,3003445
+66,China,2010,0,0
+67,Dinamarca,2010,0,0
+68,Espanha,2010,0,0
+69,Estados Unidos,2010,10657,17793
+70,França,2010,0,0
+71,Guiana,2010,0,0
+72,Israel,2010,1125,1684
+73,itália,2010,0,0
+74,Japão,2010,0,0
+75,Líbano,2010,0,0
+76,México,2010,0,0
+77,Países Baixos,2010,0,0
+78,Panamá,2010,0,0
+79,Peru,2010,0,0
+80,Portugal,2010,0,0
+81,Reino Unido,2010,0,0
+82,Taiwan,2010,0,0
+83,Turquia,2010,0,0
+84,Uruguai,2010,2139,1783
+85,Venezuela,2010,0,0
+86,Outros,2010,0,0
+87,Africa do Sul,2011,38796,34605
+88,Alemanha,2011,0,0
+89,Argentina,2011,0,0
+90,Austria,2011,3264,3254
+91,Canadá,2011,0,0
+92,"Coreia do Sul, República",2011,130902,136380
+93,"Coreia do Norte, República",2011,0,0
+94,Chile,2011,0,0
+95,China,2011,0,0
+96,Dinamarca,2011,0,0
+97,Espanha,2011,0,0
+98,Estados Unidos,2011,12487,13866
+99,França,2011,0,0
+100,Guiana,2011,0,0
+101,Israel,2011,0,0
+102,itália,2011,0,0
+103,Japão,2011,0,0
+104,Líbano,2011,0,0
+105,México,2011,0,0
+106,Países Baixos,2011,0,0
+107,Panamá,2011,0,0
+108,Peru,2011,0,0
+109,Portugal,2011,0,0
+110,Reino Unido,2011,1632,1016
+111,Taiwan,2011,0,0
+112,Turquia,2011,0,0
+113,Uruguai,2011,5786,4989
+114,Venezuela,2011,0,0
+115,Outros,2011,0,0
+116,Africa do Sul,2012,74388,71839
+117,Alemanha,2012,0,0
+118,Argentina,2012,0,0
+119,Austria,2012,0,0
+120,Canadá,2012,0,0
+121,"Coreia do Sul, República",2012,542548,577061
+122,"Coreia do Norte, República",2012,0,0
+123,Chile,2012,0,0
+124,China,2012,0,0
+125,Dinamarca,2012,0,0
+126,Espanha,2012,0,0
+127,Estados Unidos,2012,13498,9740
+128,França,2012,0,0
+129,Guiana,2012,0,0
+130,Israel,2012,1139,2021
+131,itália,2012,0,0
+132,Japão,2012,0,0
+133,Líbano,2012,0,0
+134,México,2012,0,0
+135,Países Baixos,2012,0,0
+136,Panamá,2012,0,0
+137,Peru,2012,0,0
+138,Portugal,2012,1151,3796
+139,Reino Unido,2012,0,0
+140,Taiwan,2012,1632,1034
+141,Turquia,2012,6210,15446
+142,Uruguai,2012,0,0
+143,Venezuela,2012,0,0
+144,Outros,2012,0,0
+145,Africa do Sul,2013,67758,68254
+146,Alemanha,2013,0,0
+147,Argentina,2013,0,0
+148,Austria,2013,0,0
+149,Canadá,2013,0,0
+150,"Coreia do Sul, República",2013,176796,227252
+151,"Coreia do Norte, República",2013,0,0
+152,Chile,2013,0,0
+153,China,2013,0,0
+154,Dinamarca,2013,0,0
+155,Espanha,2013,9588,8215
+156,Estados Unidos,2013,32044,34722
+157,França,2013,0,0
+158,Guiana,2013,0,0
+159,Israel,2013,2528,4831
+160,itália,2013,771457,408318
+161,Japão,2013,0,0
+162,Líbano,2013,0,0
+163,México,2013,0,0
+164,Países Baixos,2013,0,0
+165,Panamá,2013,0,0
+166,Peru,2013,0,0
+167,Portugal,2013,0,0
+168,Reino Unido,2013,0,0
+169,Taiwan,2013,3672,2328
+170,Turquia,2013,0,0
+171,Uruguai,2013,0,0
+172,Venezuela,2013,0,0
+173,Outros,2013,0,0
+174,Africa do Sul,2014,43104,40489
+175,Alemanha,2014,0,0
+176,Argentina,2014,0,0
+177,Austria,2014,0,0
+178,Canadá,2014,0,0
+179,"Coreia do Sul, República",2014,12655,14784
+180,"Coreia do Norte, República",2014,16704,24698
+181,Chile,2014,0,0
+182,China,2014,0,0
+183,Dinamarca,2014,0,0
+184,Espanha,2014,0,0
+185,Estados Unidos,2014,0,0
+186,França,2014,0,0
+187,Guiana,2014,0,0
+188,Israel,2014,0,0
+189,itália,2014,0,0
+190,Japão,2014,0,0
+191,Líbano,2014,0,0
+192,México,2014,0,0
+193,Países Baixos,2014,0,0
+194,Panamá,2014,0,0
+195,Peru,2014,0,0
+196,Portugal,2014,0,0
+197,Reino Unido,2014,0,0
+198,Taiwan,2014,2040,1294
+199,Turquia,2014,13428,10216
+200,Uruguai,2014,0,0
+201,Venezuela,2014,0,0
+202,Outros,2014,0,0
+203,Africa do Sul,2015,13125,13209
+204,Alemanha,2015,6496,46692
+205,Argentina,2015,0,0
+206,Austria,2015,0,0
+207,Canadá,2015,0,0
+208,"Coreia do Sul, República",2015,85145,49712
+209,"Coreia do Norte, República",2015,15651,22621
+210,Chile,2015,23790,29024
+211,China,2015,0,0
+212,Dinamarca,2015,0,0
+213,Espanha,2015,0,0
+214,Estados Unidos,2015,23578,28765
+215,França,2015,862,2229
+216,Guiana,2015,0,0
+217,Israel,2015,2575,4651
+218,itália,2015,225,771
+219,Japão,2015,0,0
+220,Líbano,2015,0,0
+221,México,2015,0,0
+222,Países Baixos,2015,0,0
+223,Panamá,2015,0,0
+224,Peru,2015,0,0
+225,Portugal,2015,0,0
+226,Reino Unido,2015,0,0
+227,Taiwan,2015,0,0
+228,Turquia,2015,5052,3846
+229,Uruguai,2015,0,0
+230,Venezuela,2015,0,0
+231,Outros,2015,0,0
+232,Africa do Sul,2016,7154,5841
+233,Alemanha,2016,6540,75902
+234,Argentina,2016,59028,80898
+235,Austria,2016,0,0
+236,Canadá,2016,0,0
+237,"Coreia do Sul, República",2016,30022,44524
+238,"Coreia do Norte, República",2016,0,0
+239,Chile,2016,94940,183525
+240,China,2016,0,0
+241,Dinamarca,2016,0,0
+242,Espanha,2016,0,0
+243,Estados Unidos,2016,68730,108205
+244,França,2016,0,0
+245,Guiana,2016,0,0
+246,Israel,2016,1200,1656
+247,itália,2016,774,1594
+248,Japão,2016,0,0
+249,Líbano,2016,0,0
+250,México,2016,0,0
+251,Países Baixos,2016,0,0
+252,Panamá,2016,0,0
+253,Peru,2016,10238,8908
+254,Portugal,2016,0,0
+255,Reino Unido,2016,0,0
+256,Taiwan,2016,0,0
+257,Turquia,2016,0,0
+258,Uruguai,2016,0,0
+259,Venezuela,2016,0,0
+260,Outros,2016,0,0
+261,Africa do Sul,2017,22029,17551
+262,Alemanha,2017,0,0
+263,Argentina,2017,72900,90518
+264,Austria,2017,1333,1467
+265,Canadá,2017,0,0
+266,"Coreia do Sul, República",2017,28927,41276
+267,"Coreia do Norte, República",2017,0,0
+268,Chile,2017,0,0
+269,China,2017,2475,2098
+270,Dinamarca,2017,0,0
+271,Espanha,2017,0,0
+272,Estados Unidos,2017,32691,40554
+273,França,2017,0,0
+274,Guiana,2017,0,0
+275,Israel,2017,5340,7399
+276,itália,2017,1161,4254
+277,Japão,2017,0,0
+278,Líbano,2017,0,0
+279,México,2017,0,0
+280,Países Baixos,2017,0,0
+281,Panamá,2017,0,0
+282,Peru,2017,38321,37176
+283,Portugal,2017,4500,5576
+284,Reino Unido,2017,0,0
+285,Taiwan,2017,0,0
+286,Turquia,2017,27816,19461
+287,Uruguai,2017,0,0
+288,Venezuela,2017,0,0
+289,Outros,2017,0,0
+290,Africa do Sul,2018,21618,18334
+291,Alemanha,2018,80,652
+292,Argentina,2018,2998,3139
+293,Austria,2018,0,0
+294,Canadá,2018,0,0
+295,"Coreia do Sul, República",2018,77955,99441
+296,"Coreia do Norte, República",2018,0,0
+297,Chile,2018,0,0
+298,China,2018,0,0
+299,Dinamarca,2018,0,0
+300,Espanha,2018,422,806
+301,Estados Unidos,2018,14541,8226
+302,França,2018,0,0
+303,Guiana,2018,0,0
+304,Israel,2018,840,1034
+305,itália,2018,0,0
+306,Japão,2018,0,0
+307,Líbano,2018,0,0
+308,México,2018,0,0
+309,Países Baixos,2018,0,0
+310,Panamá,2018,0,0
+311,Peru,2018,0,0
+312,Portugal,2018,0,0
+313,Reino Unido,2018,0,0
+314,Taiwan,2018,0,0
+315,Turquia,2018,0,0
+316,Uruguai,2018,225,600
+317,Venezuela,2018,0,0
+318,Outros,2018,0,0
+319,Africa do Sul,2019,0,0
+320,Alemanha,2019,0,0
+321,Argentina,2019,0,0
+322,Austria,2019,666,655
+323,Canadá,2019,0,0
+324,"Coreia do Sul, República",2019,0,0
+325,"Coreia do Norte, República",2019,0,0
+326,Chile,2019,0,0
+327,China,2019,0,0
+328,Dinamarca,2019,0,0
+329,Espanha,2019,0,0
+330,Estados Unidos,2019,9273,14093
+331,França,2019,0,0
+332,Guiana,2019,0,0
+333,Israel,2019,3360,3609
+334,itália,2019,0,0
+335,Japão,2019,0,0
+336,Líbano,2019,0,0
+337,México,2019,0,0
+338,Países Baixos,2019,0,0
+339,Panamá,2019,0,0
+340,Peru,2019,0,0
+341,Portugal,2019,0,0
+342,Reino Unido,2019,0,0
+343,Taiwan,2019,0,0
+344,Turquia,2019,0,0
+345,Uruguai,2019,0,0
+346,Venezuela,2019,0,0
+347,Outros,2019,0,0
+348,Africa do Sul,2020,0,0
+349,Alemanha,2020,0,0
+350,Argentina,2020,0,0
+351,Austria,2020,0,0
+352,Canadá,2020,0,0
+353,"Coreia do Sul, República",2020,0,0
+354,"Coreia do Norte, República",2020,0,0
+355,Chile,2020,0,0
+356,China,2020,0,0
+357,Dinamarca,2020,0,0
+358,Espanha,2020,0,0
+359,Estados Unidos,2020,28180,25418
+360,França,2020,0,0
+361,Guiana,2020,0,0
+362,Israel,2020,0,0
+363,itália,2020,0,0
+364,Japão,2020,0,0
+365,Líbano,2020,0,0
+366,México,2020,0,0
+367,Países Baixos,2020,0,0
+368,Panamá,2020,0,0
+369,Peru,2020,0,0
+370,Portugal,2020,0,0
+371,Reino Unido,2020,0,0
+372,Taiwan,2020,0,0
+373,Turquia,2020,0,0
+374,Uruguai,2020,0,0
+375,Venezuela,2020,0,0
+376,Outros,2020,0,0
+377,Africa do Sul,2021,0,0
+378,Alemanha,2021,0,0
+379,Argentina,2021,0,0
+380,Austria,2021,0,0
+381,Canadá,2021,0,0
+382,"Coreia do Sul, República",2021,0,0
+383,"Coreia do Norte, República",2021,0,0
+384,Chile,2021,0,0
+385,China,2021,0,0
+386,Dinamarca,2021,0,0
+387,Espanha,2021,0,0
+388,Estados Unidos,2021,3870,3551
+389,França,2021,0,0
+390,Guiana,2021,0,0
+391,Israel,2021,720,969
+392,itália,2021,0,0
+393,Japão,2021,0,0
+394,Líbano,2021,0,0
+395,México,2021,0,0
+396,Países Baixos,2021,0,0
+397,Panamá,2021,0,0
+398,Peru,2021,0,0
+399,Portugal,2021,0,0
+400,Reino Unido,2021,0,0
+401,Taiwan,2021,0,0
+402,Turquia,2021,0,0
+403,Uruguai,2021,0,0
+404,Venezuela,2021,0,0
+405,Outros,2021,0,0
+406,Africa do Sul,2022,0,0
+407,Alemanha,2022,0,0
+408,Argentina,2022,0,0
+409,Austria,2022,0,0
+410,Canadá,2022,0,0
+411,"Coreia do Sul, República",2022,0,0
+412,"Coreia do Norte, República",2022,0,0
+413,Chile,2022,0,0
+414,China,2022,0,0
+415,Dinamarca,2022,0,0
+416,Espanha,2022,0,0
+417,Estados Unidos,2022,29414,16781
+418,França,2022,0,0
+419,Guiana,2022,0,0
+420,Israel,2022,0,0
+421,itália,2022,0,0
+422,Japão,2022,0,0
+423,Líbano,2022,0,0
+424,México,2022,0,0
+425,Países Baixos,2022,0,0
+426,Panamá,2022,0,0
+427,Peru,2022,0,0
+428,Portugal,2022,0,0
+429,Reino Unido,2022,0,0
+430,Taiwan,2022,0,0
+431,Turquia,2022,0,0
+432,Uruguai,2022,0,0
+433,Venezuela,2022,0,0
+434,Outros,2022,0,0
+435,Africa do Sul,2023,0,0
+436,Alemanha,2023,0,0
+437,Argentina,2023,0,0
+438,Austria,2023,0,0
+439,Canadá,2023,0,0
+440,"Coreia do Sul, República",2023,0,0
+441,"Coreia do Norte, República",2023,0,0
+442,Chile,2023,0,0
+443,China,2023,0,0
+444,Dinamarca,2023,0,0
+445,Espanha,2023,0,0
+446,Estados Unidos,2023,28627,15200
+447,França,2023,0,0
+448,Guiana,2023,0,0
+449,Israel,2023,0,0
+450,itália,2023,1836,1966
+451,Japão,2023,0,0
+452,Líbano,2023,0,0
+453,México,2023,0,0
+454,Países Baixos,2023,0,0
+455,Panamá,2023,0,0
+456,Peru,2023,0,0
+457,Portugal,2023,0,0
+458,Reino Unido,2023,0,0
+459,Taiwan,2023,0,0
+460,Turquia,2023,0,0
+461,Uruguai,2023,0,0
+462,Venezuela,2023,0,0
+463,Outros,2023,0,0
